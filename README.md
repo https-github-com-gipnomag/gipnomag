@@ -1,0 +1,2 @@
+# gipnomag
+Gipnolockal
