@@ -1,2 +1,3 @@
 # gipnomag
-Gipnolockal
+GipnoopenAI
+go ssh
